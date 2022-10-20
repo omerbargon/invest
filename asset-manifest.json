@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "./static/css/main.4310b6b7.css",
+    "main.js": "./static/js/main.98bf3087.js",
+    "static/js/787.d3befce1.chunk.js": "./static/js/787.d3befce1.chunk.js",
+    "static/media/pic5.png": "./static/media/pic5.263087d07501757028f0.png",
+    "static/media/pic9.jpg": "./static/media/pic9.6d9c5ec4c44e6999cbc1.jpg",
+    "static/media/pic8.jpg": "./static/media/pic8.d4f66d1a12f84d0d3a30.jpg",
+    "static/media/BeVietnamPro-Bold.ttf": "./static/media/BeVietnamPro-Bold.9faffed4f9df3c60923c.ttf",
+    "static/media/BeVietnamPro-Bold.otf": "./static/media/BeVietnamPro-Bold.ff097a96e826b8c4616f.otf",
+    "static/media/BeVietnamPro-Regular.otf": "./static/media/BeVietnamPro-Regular.5b78e7137f6932cf375d.otf",
+    "static/media/BeVietnamPro-SemiBold.ttf": "./static/media/BeVietnamPro-SemiBold.9910cd3c6f5972027d39.ttf",
+    "static/media/BeVietnamPro-SemiBold.otf": "./static/media/BeVietnamPro-SemiBold.64b620edf701e30dc6c1.otf",
+    "static/media/BeVietnamPro-Regular.ttf": "./static/media/BeVietnamPro-Regular.ac224f8b946badb3a9b7.ttf",
+    "static/media/BeVietnam-Thin.ttf": "./static/media/BeVietnam-Thin.191b3d194b0b37c81e97.ttf",
+    "static/media/freelance-1.jpeg": "./static/media/freelance-1.e741f5798db651267d69.jpeg",
+    "static/media/BeVietnam-Thin.otf": "./static/media/BeVietnam-Thin.13d8d88a5acefc2e8bf6.otf",
+    "static/media/apply.png": "./static/media/apply.37bb3dac117eb71b4f92.png",
+    "static/media/freelance-2.jpg": "./static/media/freelance-2.0598bb63f3af9af03a12.jpg",
+    "static/media/pic1.jpg": "./static/media/pic1.afdc1a4a5d42f63ab8c1.jpg",
+    "static/media/contact.jpg": "./static/media/contact.e7b841b3a65a94f8321c.jpg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/default-monochrome.svg": "./static/media/default-monochrome.ca7d1277b3ea5cafb43e8224e32c31db.svg",
+    "static/media/facebook.svg": "./static/media/facebook.395d9241c4ef2706fa1b26b8954cafd3.svg",
+    "static/media/linkedin.svg": "./static/media/linkedin.27cf664343f70e35ff4229ff8ce2ed6b.svg",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/instagram.svg": "./static/media/instagram.e5adfa9ef0e2dd7ec2673eb17a078939.svg",
+    "static/media/location.svg": "./static/media/location.90f8013f902fac9853b5be065deed977.svg",
+    "index.html": "./index.html",
+    "static/media/search.svg": "./static/media/search.f326cfeb43dbf9dd272fa19497a01d18.svg",
+    "main.4310b6b7.css.map": "./static/css/main.4310b6b7.css.map",
+    "main.98bf3087.js.map": "./static/js/main.98bf3087.js.map",
+    "787.d3befce1.chunk.js.map": "./static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4310b6b7.css",
+    "static/js/main.98bf3087.js"
+  ]
+}
