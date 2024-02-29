@@ -4,4 +4,4 @@ This project was built using React Bootstrap to create a responsive and visually
 
 ## Website URL
 To see and visit the website, click on the following link:
-[Invext](https://omerbargon.github.io/invest/)
+[Invest](https://omerbargon.github.io/invest/)
